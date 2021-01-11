@@ -1,0 +1,10 @@
+NOME TABELLA: "automobili" 
+
+"id" - numero INT
+"marca" - stringa VARCHAR(25)
+"modello" - stringa VARCHAR(25)
+"colore" - stringa VARCHAR(25)
+"stato" - stringa TEXT
+"chilometri" - numero INT
+"cambio" - stringa VARCHAR(25)
+"carburante" - stringa VARCHAR(25)
